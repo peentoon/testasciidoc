@@ -1,6 +1,19 @@
-= Welcome
+= Welcome to this repository
+:toc:
+
+== Preface
 
 This is a test
+
+== Another section
+
+Here we're going to have 2 subsections.
+
+=== Subsection
+
+With text in it
+
+=== Some code
 
 ----
 like this we can insert code block
