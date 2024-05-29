@@ -18,3 +18,7 @@ With text in it
 ----
 like this we can insert code block
 ----
+
+== This is another chapter
+
+blah blah blah
